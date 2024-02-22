@@ -1,2 +1,3 @@
 const arr = ["Sanjay", "Rakesh"]
 console.log(arr);
+const obj = {name:"sanjay"}
